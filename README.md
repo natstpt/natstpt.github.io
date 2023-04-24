@@ -16,7 +16,7 @@ To deploy your GitHub Pages site, follow these steps:
 2. Push your local repository to the new GitHub repository.
 3. Go to your repository settings on GitHub and navigate to the "Pages" tab.
 4. Choose the correct branch and folder to serve your site from.
-5. Your site will be live at `https://natstpt.github.io/`.
+5. Your site will be live at `https://<your-username>.github.io/<repository-name>/`.
 
 ## Built With
 
