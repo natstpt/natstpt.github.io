@@ -1,11 +1,11 @@
 # My GitHub Pages Site
 
-This is a simple GitHub Pages site created with an index.html file. Use this template as a starting point to build your own site.
+This is a simple GitHub Pages site created with an _config.yml file. Use this template as a starting point to build your own site.
 
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. Open the `index.html` file in your favorite code editor.
+2. Open the `_config.yml` file in your favorite code editor.
 3. Customize the content, styles, and other elements as desired.
 
 ## Deployment
@@ -21,7 +21,7 @@ To deploy your GitHub Pages site, follow these steps:
 ## Built With
 
 - HTML
-- CSS
+- SCSS
 
 ## Contributing
 
@@ -29,8 +29,8 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+The theme is available as open source under the terms of the [LICENSE.md](LICENSE.md)
 
 ## Acknowledgments
 
-- [GitHub Pages](https://natstpt.github.io/)
+- [modern-resume-theme](https://github.com/sproogen/modern-resume-theme/)
