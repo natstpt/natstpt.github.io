@@ -19,13 +19,13 @@ darkmode: false
 github_username:  natstpt
 # stackoverflow_username: ""
 # dribbble_username: 
-facebook_username: profile.php?id=100001221245908
+facebook_username: profile.php?id=100001221245908&mibextid=ZbWKwL
 # flickr_username: 
 instagram_username: nattherapy
 linkedin_username: natkamon-sunthonphithak-b00274251
 # xing_username: 
 # pinterest_username: 
-youtube_username: @nstpt8315/channels
+youtube_username: channel/UCvLcSRy7hT5uY1EzyS-YM2w
 # googleplus_username: 
 # orcid_username: 0000-0000-0000-0000
 
@@ -124,7 +124,7 @@ content:
       
 
       Look at this cool image  
-      ![Trees](/images/makrukthai.jpg "makrukthai")
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
