@@ -9,7 +9,7 @@ version: 2
 name: Natkamon Sunthonphithak
 title: Software Engineer
 email: natkamon.stpt@gmail.com
-website: https://natstpt.github.io/
+website: https://natstpt.github.io/resume
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -61,9 +61,9 @@ content:
         link: https://github.com/natstpt
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  natstpt.github.io/resume
             icon: fab fa-github
-            url: https://natstpt.github.io/
+            url: https://natstpt.github.io/resume
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -127,7 +127,7 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
