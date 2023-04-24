@@ -68,33 +68,33 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Test
+          work in progress
         description: | # this will include new lines to allow paragraphs
-          Test
+          work in progress
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Internet Thailand PCL
-        link: boringcompany.com
-        # link_text: boringcompany.com
+        link: https://www.inet.co.th/
+        # link_text: www.inet.co.th/
         sub_title: Software Engineer
         caption: June 2019 - March 2020
         quote: >
-          Test
+          work in progress
         description: | # this will include new lines to allow paragraphs
-            Test
+            work in progress
       - layout: left
         title: JASMINE INTERNATIONAL PCL
-        link: boringcompany.com
-        # link_text: boringcompany.com
+        link: https://www.jasmine.com/main
+        # link_text: www.jasmine.com/main
         sub_title: Software Engineer
         caption: April 2021 - March 2022
         quote: >
-          Test
+          work in progress
         description: | # this will include new lines to allow paragraphs
-            Test
+            work in progress
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -104,9 +104,9 @@ content:
         caption: 2015 - 2019
         sub_title: BSc Computer Science (IT)
         quote: >
-          Test
+          work in progress
         description: | # this will include new lines to allow paragraphs
-          Test
+          work in progress
 
   - title: A Little More About Me
     layout: text
