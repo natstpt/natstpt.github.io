@@ -83,8 +83,9 @@ content:
         # quote: >
         #   TEST
         description: | # this will include new lines to allow paragraphs
-            Backend developer using PHP and Laravel framework to create controllers and models and connect to databases,
-          Build interactive dashboards using Tableau and Power BI
+            Backend developer using PHP and Laravel framework to create controllers and models and connect to databases.
+        description: | # this will include new lines to allow paragraphs
+            Build interactive dashboards using Tableau and Power BI
       - layout: left
         title: JASMINE INTERNATIONAL PCL
         link: https://www.jasmine.com/main
@@ -107,7 +108,9 @@ content:
         # quote: >
         #   Test
         description: | # this will include new lines to allow paragraphs
-          ·	Final Project: Deep Learning for Thai Chess Playing, involving the use of deep learning techniques to enable a computer to play Thai Chess at an expert level and developing a web application using artificial intelligence to interact with humans, Three-month internship: Developed a website using PHP and Laravel framework and setup and developed with C++ based on NodeMCU ESP8266 module for people counter sensor and temperature sensor.
+          Final Project: Deep Learning for Thai Chess Playing, involving the use of deep learning techniques to enable a computer to play Thai Chess at an expert level and developing a web application using artificial intelligence to interact with humans.
+        description: | # this will include new lines to allow paragraphs 
+          Three-month internship: Developed a website using PHP and Laravel framework and setup and developed with C++ based on NodeMCU ESP8266 module for people counter sensor and temperature sensor.
 
   - title: A Little More About Me
     layout: text
