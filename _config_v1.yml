@@ -1,0 +1,140 @@
+# Site
+repository: https://github.com/natstpt
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Natkamon Sunthonphithak
+title: Software Engineer
+email: natkamon.stpt@gmail.com
+website: https://natstpt.github.io/resume
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: 
+github_username:  natstpt
+# stackoverflow_username: ""
+# dribbble_username: 
+facebook_username: profile.php?id=100001221245908
+# flickr_username: 
+instagram_username: nattherapy
+linkedin_username: natkamon-sunthonphithak-b00274251
+# xing_username: 
+# pinterest_username: 
+# youtube_username: 
+# googleplus_username: 
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile_me.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Natkamon and I'm a <mark>software engineer</mark>.  I have 2 year experiences working as Programmer by using analytic tools,cleaning data and building data pipeline, building interactive dashboard of business data. I also have some experience in <mark>backend developer</mark> and have an
+interested in <mark>QA automation</mark>
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: https://github.com/natstpt
+        # link_text: Project Website
+        additional_links:
+          - title:  natstpt.github.io/resume
+            icon: fab fa-github
+            url: https://natstpt.github.io/resume
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        # Test
+        description: | # this will include new lines to allow paragraphs
+          Makrukthai Project : Board-Recognition, Assistant, Analysis, GUI, WebAppLite, Fen Analysis BY Fairy-Stockfish
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Internet Thailand PCL
+        link: www.inet.co.th/
+        # link_text: www.inet.co.th/
+        sub_title: Software Engineer
+        caption: June 2019 - March 2020
+        # quote: >
+        #   TEST
+        description: | # this will include new lines to allow paragraphs
+            Backend developer using PHP and Laravel framework to create controllers and models and connect to databases.
+        description: | # this will include new lines to allow paragraphs
+            Build interactive dashboards using Tableau and Power BI
+      - layout: left
+        title: JASMINE INTERNATIONAL PCL
+        link: https://www.jasmine.com/main
+        # link_text: www.jasmine.com/main
+        sub_title: Programmer
+        caption: April 2021 - March 2022
+        # quote: >
+          # TEST
+        description: | # this will include new lines to allow paragraphs
+            Developed API systems and CRUD databases as a backend developer using PHP, Created reports manually using SQL queries and interactive reports using Power BI
+
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Khon Kaen University
+        caption: 2015 - 2019
+        sub_title: BSc Computer Science (IT)
+        # quote: >
+        #   Test
+        description: | # this will include new lines to allow paragraphs
+          Final Project: Deep Learning for Thai Chess Playing, involving the use of deep learning techniques to enable a computer to play Thai Chess at an expert level and developing a web application using artificial intelligence to interact with humans.
+        description: | # this will include new lines to allow paragraphs 
+          Three-month internship: Developed a website using PHP and Laravel framework and setup and developed with C++ based on NodeMCU ESP8266 module for people counter sensor and temperature sensor.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in software engineering some of my other interests and hobbies are:
+      - Makrukthia (Thai Chess)
+      - Seeing a movie
+      - Singing song
+      - Listening to music
+      - Guitar
+      - Gardening
+      - Playing Game
+      - Cooking
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
