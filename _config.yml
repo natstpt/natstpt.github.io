@@ -201,8 +201,8 @@ content:
       - Playing Game
       - Cooking    
 
-      Look at this my application image!
-      ![Trees](/resume/images/makrukthai.png "Tkinter-based GUI application for visualizing a Makrukthai (Thai Chess)")
+      Look at this my application image
+      ![Trees](/resume/images/makrukthai.png "Makrukthai")
 
 # Footer
 footer_show_references: true
