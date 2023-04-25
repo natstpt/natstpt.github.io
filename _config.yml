@@ -118,8 +118,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           
-        description: | # this will include new lines to allow paragraphs
-        ![Makrukthai](/resume/images/makrukthai.png "Makrukthai")
+        description: | # this will include new lines to allow paragraphs        
           This Python script is an interface to interact with the Fairy-Stockfish chess engine. It is designed to analyze a given chess position in the Makrukthai (Thai Chess) and output the analysis results into a text file.
 
       - layout: top-middle
@@ -137,7 +136,7 @@ content:
         
           
         description: | # this will include new lines to allow paragraphs
-        ![Makrukthai](/resume/images/makrukthai.png "Makrukthai")
+          ![Makrukthai](/resume/images/makrukthai.png "Makrukthai")
           Tkinter-based GUI application for visualizing a Makrukthai (Thai Chess) board.
     
       - layout: top-middle
