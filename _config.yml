@@ -82,7 +82,8 @@ content:
         sub_title: Software Engineer
         caption: June 2019 - March 2020
         quote: >
-          Test
+          Worked with Multi Innovation as a backend developer using PHP and Laravel framework to create controllers and models and connect to databases.
+          Worked with Intelligist to build interactive dashboards using Tableau and Power BI
         description: | # this will include new lines to allow paragraphs
             Test
       - layout: left
