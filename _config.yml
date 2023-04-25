@@ -106,7 +106,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Makrukthai Fen Analysis
+        title: Makrukthai Analysis
         link: https://github.com/natstpt/Makrukthai-Analysis
         # link_text: Project Website
         additional_links:
@@ -119,11 +119,11 @@ content:
         quote: >        
           
         description: | # this will include new lines to allow paragraphs
-          ![Makrukthai](/resume/images/makrukthai.png "Makrukthai")
           Tkinter-based GUI application for visualizing a Makrukthai (Thai Chess) board.
+          ![Makrukthai](/resume/images/makrukthai.png "Makrukthai")          
 
       - layout: top-middle
-        title: Makrukthai Analysis
+        title: Makrukthai FEN Analysis
         link: https://github.com/natstpt/Makrukthai-Fen-Analysis
         # link_text: Project Website
         additional_links:
