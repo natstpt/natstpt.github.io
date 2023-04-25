@@ -48,8 +48,8 @@ linkedin_username: natkamon-sunthonphithak-b00274251
 # about_title: About Me
 about_profile_image: images/profile_me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Natkamon and I'm a software engineer.  I have 2 year experiences working as Programmer by using analytic tools,cleaning data and building data pipeline, building interactive dashboard of business data. I also have some experience in backend developer and have an
-interested in QA automation
+  Hi, my name's Natkamon and I'm a <mark>software engineer</mark>.  I have 2 year experiences working as Programmer by using analytic tools,cleaning data and building data pipeline, building interactive dashboard of business data. I also have some experience in <mark>backend developer</mark> and have an
+interested in <mark>QA automation</mark>
 
 content:
   - title: Projects # Title for the section
