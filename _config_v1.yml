@@ -116,7 +116,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in software engineering some of my other interests and hobbies are:
-      - Makrukthia (Thai Chess)
+      - Makrukthai (Thai Chess)
       - Seeing a movie
       - Singing song
       - Listening to music
@@ -124,6 +124,7 @@ content:
       - Gardening
       - Playing Game
       - Cooking
+      - [Makrukthai Online](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: false
