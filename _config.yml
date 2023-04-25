@@ -50,11 +50,11 @@ about_profile_image: images/profile_me.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Natkamon and I'm a software engineer with 2 years of experience working as a programmer. 
   
-  Throughout my career, I have honed my skills in using analytical tools, cleaning data, building data pipelines, and creating interactive dashboards for business data using platforms like Power BI and Tableau. 
+  Throughout my career, I have honed my skills in using analytical tools, cleaning data, building data pipelines, and creating interactive dashboards for business data using platforms like <mark>Power BI</mark> and <mark>Tableau</mark>. 
   
   I have extensive experience working with <mark>API</mark> development and integration, as well as expertise in <mark>SQL</mark> for efficient database management. 
   
-  Furthermore, I am proficient in using <mark>GIT</mark>> for version control and collaboration on projects. In addition to this, I have a strong background in website development, leveraging <mark>PHP Laravel</mark> and <mark>Node.js</mark> frameworks to design and develop web applications with seamless database connectivity.
+  Furthermore, I am proficient in using <mark>GIT</mark> for version control and collaboration on projects. In addition to this, I have a strong background in website development, leveraging <mark>PHP Laravel</mark> and <mark>Node.js</mark> frameworks to design and develop web applications with seamless database connectivity.
   
   Moreover, I have experience in working with <mark>Python Selenium</mark> for web automation tasks and automating test processes to ensure the quality and reliability of applications. 
   
@@ -80,7 +80,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>Python</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project as a way if learning <mark>Python</mark> <mark>C++</mark> <mark>Node.js</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -95,8 +95,8 @@ content:
         #   TEST
         description: | # this will include new lines to allow paragraphs
             Backend developer using PHP and Laravel framework to create controllers and models and connect to databases.
-        description: | # this will include new lines to allow paragraphs
-            Build interactive dashboards using Tableau and Power BI
+
+            Build interactive dashboards using Tableau and Power BI.
       - layout: left
         title: JASMINE INTERNATIONAL PCL
         link: https://www.jasmine.com/main
@@ -120,6 +120,7 @@ content:
         #   Test
         description: | # this will include new lines to allow paragraphs
           Final Project: Deep Learning for Thai Chess Playing, involving the use of deep learning techniques to enable a computer to play Thai Chess at an expert level and developing a web application using artificial intelligence to interact with humans.
+          
           Three-month internship: Developed a website using PHP and Laravel framework and setup and developed with C++ based on NodeMCU ESP8266 module for people counter sensor and temperature sensor.
 
   - title: A Little More About Me
