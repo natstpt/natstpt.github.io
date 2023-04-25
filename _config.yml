@@ -63,25 +63,6 @@ about_content: | # this will include new lines to allow paragraphs
   I also have some experience in : <mark>Backend developer</mark> and have an interested in <mark>QA automation</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/natstpt
-        # link_text: Project Website
-        additional_links:
-          - title:  natstpt.github.io/resume
-            icon: fab fa-github
-            url: github.com/natstpt/resume
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>Python</mark> <mark>C++</mark> <mark>Node.js</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -120,6 +101,41 @@ content:
           Final Project: Deep Learning for Thai Chess Playing, involving the use of deep learning techniques to enable a computer to play Thai Chess at an expert level and developing a web application using artificial intelligence to interact with humans.
           
           Three-month internship: Developed a website using PHP and Laravel framework and setup and developed with C++ based on NodeMCU ESP8266 module for people counter sensor and temperature sensor.
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Makrukthai Analysis
+        link: https://github.com/natstpt/Makrukthai-Analysis
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/natstpt/Makrukthai-Analysis
+            icon: fab fa-github
+            url: https://github.com/natstpt/Makrukthai-Analysis
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          <mark>Python</mark> Tkinter-based GUI application for visualizing a Makrukthai (Thai Chess) board.          
+    content:
+      - layout: top-middle
+        title: Makrukthai Assistant
+        link: https://github.com/natstpt/Makrukthai-Analysis
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/natstpt/Makrukthai-Assistant
+            icon: fab fa-github
+            url: https://github.com/natstpt/Makrukthai-Assistant
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          <mark>Python</mark> Tkinter-based GUI application for visualizing a Makrukthai (Thai Chess) board.
 
   - title: A Little More About Me
     layout: text
