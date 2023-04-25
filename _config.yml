@@ -139,8 +139,8 @@ content:
       
 
 
-      Look at this cool image  
-      ![Trees](/resume/images/landscape-trees.jpg "Trees")
+      Look at this my application image
+      ![Trees](/resume/images/makrukthai.png "Tkinter-based GUI application for visualizing a Makrukthai (Thai Chess)")
 
 # Footer
 footer_show_references: true
