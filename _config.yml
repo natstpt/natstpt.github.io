@@ -135,7 +135,23 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          <mark>Python</mark> Tkinter-based GUI application for visualizing a Makrukthai (Thai Chess) board.
+          Makrukthai Assistant is a <mark>Python</mark>-based tool that analyzes Makrukthai (Thai Chess) positions using the Fairy-Stockfish chess engine. It captures the board's screenshot, detects pieces using OpenCV, generates a FEN string, and displays the best moves as transparent colored dots using PyQt5.
+    content:
+      - layout: top-middle
+        title: Makrukthai Board Recognition
+        link: https://github.com/natstpt/Makrukthai-Analysis
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/natstpt/Makrukthai-Board-Recognition
+            icon: fab fa-github
+            url: https://github.com/natstpt/Makrukthai-Board-Recognition
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          <mark>C++</mark> Makrukthai Board Recognition is a program utilizing OpenCV for image processing to detect makrukthai pieces and output in FEN format.
 
   - title: A Little More About Me
     layout: text
