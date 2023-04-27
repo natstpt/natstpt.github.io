@@ -120,7 +120,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           Tkinter-based GUI application for visualizing a Makrukthai (Thai Chess) board.
-          ![Makrukthai](/resume/images/makrukthai.png "Makrukthai")          
+          ![Makrukthai-Analysis](/resume/images/Makrukthai-Analysis.png "Makrukthai-Analysis")          
 
       - layout: top-middle
         title: Makrukthai FEN Analysis
@@ -153,7 +153,8 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           Makrukthai Assistant is a tool that analyzes Makrukthai (Thai Chess) positions using the Fairy-Stockfish chess engine. It captures the board's screenshot, detects pieces using OpenCV, generates a FEN string, and displays the best moves as transparent colored dots using PyQt5.
-    
+          ![Makrukthai-Assistant](/resume/images/Makrukthai-Assistant.png "Makrukthai-Assistant")    
+
       - layout: top-middle
         title: Makrukthai Board Recognition
         link: https://github.com/natstpt/Makrukthai-Board-Recognition
@@ -169,6 +170,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           Makrukthai Board Recognition is a program utilizing OpenCV for image processing to detect makrukthai pieces and output in FEN format.
+          ![Makrukthai-Board-Recognition](/resume/images/Makrukthai-Board-Recognition.png "Makrukthai-Board-Recognition")    
 
       - layout: top-middle
         title: Makrukthai-WebAppLite
@@ -185,6 +187,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           Makrukthai-WebAppLite is a lightweight, user-friendly online chess platform interface built with HTML, CSS, and JavaScript, and back-end by Node.js
+          ![Makrukthai-WebAppLite](/resume/images/Makrukthai-WebAppLite.png "Makrukthai-WebAppLite") 
 
   - title: A Little More About Me
     layout: text
