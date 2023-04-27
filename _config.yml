@@ -170,7 +170,7 @@ content:
           Makrukthai Board Recognition is a program utilizing OpenCV for image processing to detect makrukthai pieces and output in FEN format.
 
       - layout: top-middle
-        title: Makrukthai-WebAppLite
+        title: Makrukthai WebAppLite
         link: https://github.com/natstpt/Makrukthai-WebAppLite
         # link_text: Project Website
         additional_links:
