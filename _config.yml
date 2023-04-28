@@ -218,6 +218,22 @@ content:
           Makrukthai Plus is a real-time Node.js makrukthai platform with MongoDB, allowing users to enjoy friendly matches, practice against AI, chat, search for users, and track their ratings. It is powered by Express, Mongoose, Socket.io, Chessboard, and Passport.
 
       - layout: top-middle
+        title: PlayOK Makruk Statistics Downloader
+        link: https://github.com/natstpt/PlayOK-Makruk-Statistics-Downloader
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/natstpt/PlayOK-Makruk-Statistics-Downloader
+            icon: fab fa-github
+            url: https://github.com/natstpt/PlayOK-Makruk-Statistics-Downloader
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          This Python script downloads makrukthai game statistics from the PlayOK website (https://www.playok.com) for a specified user ID and saves them as text files in a local "txtdata" directory.
+          
+      - layout: top-middle
         title: Web Automation for Score Input
         link: https://github.com/natstpt/Web-Automation-for-Score-Input
         # link_text: Project Website
