@@ -174,7 +174,7 @@ content:
         link: https://github.com/natstpt/Makrukthai-WebAppLite
         # link_text: Project Website
         additional_links:
-          - title:  github.com/natstpt/Makrukthai-Board-Recognition
+          - title:  github.com/natstpt/Makrukthai-WebAppLite
             icon: fab fa-github
             url: https://github.com/natstpt/Makrukthai-WebAppLite
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -183,7 +183,23 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          Makrukthai-WebAppLite is a lightweight, user-friendly online chess platform interface built with HTML, CSS, and JavaScript, and back-end by Node.js
+          Makrukthai-WebAppLite is a lightweight, user-friendly online chess platform interface built with HTML, CSS, and JavaScript, and back-end by Node.js.
+
+      - layout: top-middle
+        title: Makrukthai Plus
+        link: https://github.com/natstpt/Makrukthai-Plus
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/natstpt/Makrukthai-Plus
+            icon: fab fa-github
+            url: https://github.com/natstpt/Makrukthai-Plus
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          Makrukthai Plus is a real-time Node.js makrukthai platform with MongoDB, allowing users to enjoy friendly matches, practice against AI, chat, search for users, and track their ratings. It is powered by Express, Mongoose, Socket.io, Chessboard, and Passport.
 
   - title: A Little More About Me
     layout: text
