@@ -138,6 +138,22 @@ content:
           This Python script is an interface to interact with the Fairy-Stockfish chess engine. It is designed to analyze a given chess position in the Makrukthai (Thai Chess) and output the analysis results into a text file.              
     
       - layout: top-middle
+        title: Simple Makrukthai AI
+        link: https://github.com/natstpt/Simple-Makrukthai-AI
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/natstpt/Simple-Makrukthai-AI
+            icon: fab fa-github
+            url: https://github.com/natstpt/Simple-Makrukthai-AI
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs        
+          Simple Makrukthai AI is an intelligent chess engine that utilizes the Minimax algorithm with Alpha-Beta pruning for optimal performance. Integrated with chess.js for game management and chessboard.js for visual representation, this AI provides an engaging and challenging experience for chess enthusiasts.
+          
+      - layout: top-middle
         title: Makrukthai Assistant
         link: https://github.com/natstpt/Makrukthai-Assistant
         # link_text: Project Website
