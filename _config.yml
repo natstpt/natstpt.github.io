@@ -217,6 +217,38 @@ content:
         description: | # this will include new lines to allow paragraphs
           Makrukthai Plus is a real-time Node.js makrukthai platform with MongoDB, allowing users to enjoy friendly matches, practice against AI, chat, search for users, and track their ratings. It is powered by Express, Mongoose, Socket.io, Chessboard, and Passport.
 
+      - layout: top-middle
+        title: Web Automation for Score Input
+        link: https://github.com/natstpt/Web-Automation-for-Score-Input
+        # link_text: Project Website
+        additional_links:
+          - title: github.com/natstpt/Web-Automation-for-Score-Input
+            icon: fab fa-github
+            url: https://github.com/natstpt/Web-Automation-for-Score-Input
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          This project automates the process of logging into a website, navigating through menus, and inputting scores from an Excel file into a web form. The script uses Selenium for web automation and pandas for data manipulation.
+
+      - layout: top-middle
+        title: My Vue.js Self Introduction
+        link: https://github.com/natstpt/My-Vue.js-Self-Introduction
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/natstpt/My-Vue.js-Self-Introduction
+            icon: fab fa-github
+            url: https://github.com/natstpt/My-Vue.js-Self-Introduction
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          This is a self introduction web project created using Vue.js, a progressive JavaScript framework for building user interfaces. This project aims to showcase my personal information, skills, experiences.
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
