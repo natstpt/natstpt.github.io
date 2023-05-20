@@ -46,15 +46,15 @@ linkedin_username: natstpt
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile_me2.jpg
+about_profile_image: images/profile_me3.jpg
 about_content: | # this will include new lines to allow paragraphs
-  🔹 Software Engineer specializing in backend development, with a passion for building robust, scalable, and efficient web applications using PHP and Node.js frameworks. 
+  🔹 Software Engineer specializing in backend development, with a passion for building robust, scalable, and efficient web applications using <mark>PHP</mark> and <mark>Node.js</mark> frameworks. 
   
-  🔹 Demonstrates proven expertise in SQL/NoSQL for optimized database management, REST API integration for seamless system connections, and GIT for streamlined project collaboration. 
+  🔹 Demonstrates proven expertise in <mark>SQL</mark>/<mark>NoSQL</mark> for optimized database management, <mark>REST API</mark> integration for seamless system connections, and <mark>GIT</mark> for streamlined project collaboration. 
   
-  🔹 Proficient in Python Selenium for automating web tasks, enabling meticulous testing processes to guarantee the quality and reliability of applications. 
+  🔹 Proficient in <mark>Python</mark> Selenium for automating web tasks, enabling meticulous testing processes to guarantee the quality and reliability of applications. 
   
-  🔹 Excels at utilizing Power BI for compelling data presentations, insightful management, and data-driven decision making, further complemented by proficiency in Python Selenium for web automation tasks and rigorous quality checks. 
+  🔹 Excels at utilizing <mark>Power BI</mark> for compelling data presentations, insightful management, and data-driven decision making, further complemented by proficiency in Python Selenium for web automation tasks and rigorous quality checks. 
   
   🔹 Passionate about diving into data, discovering insights, and driving business impact. Eagerly seeking Data Analyst opportunities to apply a diverse tech skillset and foster an environment of innovation and continuous learning.
 
